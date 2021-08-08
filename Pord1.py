@@ -3,6 +3,8 @@ b=int(input("PLease enter b="))
 sum=a+b
 diff=a-b
 mul=a*b
+div=a/b
 print(sum)
 print(diff)
 print(mul)
+print(div)
