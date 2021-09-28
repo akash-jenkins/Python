@@ -7,7 +7,7 @@ div=a/b
 rem=a%b
 avg=(a+b)/2
 sqr=a**2
-thi=b***3
+thi=b^3
 print(sum)
 print(diff)
 print(mul)
